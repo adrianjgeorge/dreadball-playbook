@@ -1,1 +1,2 @@
-include 'dreadball-playbook-rest'
+include 'dreadball-playbook-android',
+		'dreadball-playbook-rest'
