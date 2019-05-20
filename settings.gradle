@@ -1,0 +1,2 @@
+include 'dreadball-playbook-android',
+		'dreadball-playbook-rest'
